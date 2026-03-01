@@ -1,0 +1,15 @@
+name: LifeSteal
+version: 1.0.0
+main: com.stormai.plugin.Main
+api-version: 1.21
+authors: [StormAI]
+description: A high-performance lifesteal plugin for Minecraft 1.21
+commands:
+  lifesteal:
+    description: LifeSteal plugin commands
+    usage: /lifesteal reload
+    aliases: [ls]
+permissions:
+  lifesteal.reload:
+    description: Allows reloading the configuration
+    default: op

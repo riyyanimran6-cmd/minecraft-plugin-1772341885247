@@ -1,0 +1,7 @@
+# LifeSteal Plugin Configuration
+
+lifesteal-percentage: 50.0
+default-max-health: 20.0
+max-health-decrease-on-death: 2.0
+save-interval: 300
+debug-mode: false
